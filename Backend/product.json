@@ -1,0 +1,184 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "title": "Ferti1",
+            "price": 85,
+            "description": "Grow Rapid",
+            "category": "Fertillizer",
+            "image": "./images/ferti.jpeg",
+            "rating": {
+            "rate": 3.9,
+            "count": 120
+            }
+            },
+            {
+                "id": 2,
+                "title": "AIMCO",
+                "price": 90,
+                "description": "Kill them",
+                "category": "Pesticides",
+                "image": "./images/pest2.jpeg",
+                "rating": {
+                "rate": 3.9,
+                "count": 120
+                }
+                },
+                {
+                    "id": 3,
+                    "title": "NFL Ferti",
+                    "price": 100,
+                    "description": "the farmers daily to increase the crop yield",
+                    "category": "Fertillizer",
+                    "image": "./images/ferti.jpeg",
+                    "rating": {
+                    "rate": 3.9,
+                    "count": 120
+                    }
+                    },
+                    {
+                        "id": 4,
+                        "title": "Sairat Pesticides",
+                        "price": 109.95,
+                        "description": "Use to kill, repel, or control certain forms of plant or animal life that are considered to be pests",
+                        "category": "Pesticides",
+                        "image": "./images/pest.jpeg",
+                        "rating": {
+                        "rate": 3.9,
+                        "count": 120
+                        }
+                        },
+                        {
+                            "id": 5,
+                            "title": "MPK Fertillizer",
+                            "price": 100,
+                            "description": "Addition to carbon, hydrogen and oxygen",
+                            "category": "men's clothing",
+                            "image": "./images/ferti2.jpeg",
+                            "rating": {
+                            "rate": 3.9,
+                            "count": 120
+                            }
+                            },
+                            {
+            "id": 6,
+            "title": "Ferti1",
+            "price": 85,
+            "description": "Grow Rapid",
+            "category": "Fertillizer",
+            "image": "./images/ferti.jpeg",
+            "rating": {
+            "rate": 3.9,
+            "count": 120
+            }
+            },
+            {
+                "id": 7,
+                "title": "AIMCO",
+                "price": 90,
+                "description": "Kill them",
+                "category": "Pesticides",
+                "image": "./images/pest2.jpeg",
+                "rating": {
+                "rate": 3.9,
+                "count": 120
+                }
+                },
+                {
+                    "id": 8,
+                    "title": "NFL Ferti",
+                    "price": 100,
+                    "description": "the farmers daily to increase the crop yield",
+                    "category": "Fertillizer",
+                    "image": "./images/ferti.jpeg",
+                    "rating": {
+                    "rate": 3.9,
+                    "count": 120
+                    }
+                    },
+                    {
+                        "id": 9,
+                        "title": "Sairat Pesticides",
+                        "price": 109.95,
+                        "description": "Use to kill, repel, or control certain forms of plant or animal life that are considered to be pests",
+                        "category": "Pesticides",
+                        "image": "./images/pest.jpeg",
+                        "rating": {
+                        "rate": 3.9,
+                        "count": 120
+                        }
+                        },
+                        {
+                            "id": 10,
+                            "title": "MPK Fertillizer",
+                            "price": 100,
+                            "description": "Addition to carbon, hydrogen and oxygen",
+                            "category": "men's clothing",
+                            "image": "./images/ferti2.jpeg",
+                            "rating": {
+                            "rate": 3.9,
+                            "count": 120
+                            }
+                            },
+                            {
+                                "id": 11,
+                                "title": "Ferti1",
+                                "price": 85,
+                                "description": "Grow Rapid",
+                                "category": "Fertillizer",
+                                "image": "./images/ferti.jpeg",
+                                "rating": {
+                                "rate": 3.9,
+                                "count": 120
+                                }
+                                },
+                                {
+                                    "id": 12,
+                                    "title": "AIMCO",
+                                    "price": 90,
+                                    "description": "Kill them",
+                                    "category": "Pesticides",
+                                    "image": "./images/pest2.jpeg",
+                                    "rating": {
+                                    "rate": 3.9,
+                                    "count": 120
+                                    }
+                                    },
+                                    {
+                                        "id": 13,
+                                        "title": "NFL Ferti",
+                                        "price": 100,
+                                        "description": "the farmers daily to increase the crop yield",
+                                        "category": "Fertillizer",
+                                        "image": "./images/ferti.jpeg",
+                                        "rating": {
+                                        "rate": 3.9,
+                                        "count": 120
+                                        }
+                                        },
+                                        {
+                                            "id": 14,
+                                            "title": "Sairat Pesticides",
+                                            "price": 109.95,
+                                            "description": "Use to kill, repel, or control certain forms of plant or animal life that are considered to be pests",
+                                            "category": "Pesticides",
+                                            "image": "./images/pest.jpeg",
+                                            "rating": {
+                                            "rate": 3.9,
+                                            "count": 120
+                                            }
+                                            },
+                                            {
+                                                "id": 15,
+                                                "title": "MPK Fertillizer",
+                                                "price": 100,
+                                                "description": "Addition to carbon, hydrogen and oxygen",
+                                                "category": "men's clothing",
+                                                "image": "./images/ferti2.jpeg",
+                                                "rating": {
+                                                "rate": 3.9,
+                                                "count": 120
+                                                }
+                                                }
+    ]
+}
